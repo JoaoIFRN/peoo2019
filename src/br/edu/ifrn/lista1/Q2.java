@@ -21,6 +21,7 @@ public class Q2 {
         System.out.println("Número digitado: " + numero);
         System.out.printf("Número digitado: %d", numero);
         
+        //Outra maneira de entrada de dados
         String valor = 
         JOptionPane.showInputDialog("Número: ");
         int valorInteiro = Integer.parseInt(valor);

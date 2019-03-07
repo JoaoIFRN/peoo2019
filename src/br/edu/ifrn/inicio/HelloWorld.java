@@ -15,7 +15,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Início");
         int valor = 10;
-        int total;
+        int total = 0;
+        valor = total;
         Aluno novoAluno = new Aluno();
         novoAluno.matricula = 6757;
         novoAluno.nome = "João";
