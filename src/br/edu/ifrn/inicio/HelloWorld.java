@@ -21,5 +21,7 @@ public class HelloWorld {
         novoAluno.matricula = 6757;
         novoAluno.nome = "João";
         System.out.println(novoAluno.exibir());              
+        double Número = 5.6; 
+        System.out.println(Número);
     }  
 }
